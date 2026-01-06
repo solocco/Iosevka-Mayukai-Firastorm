@@ -12,4 +12,4 @@ See [Iosevka Custom Build Documentation](https://github.com/be5invis/Iosevka/blo
 
 ## License
 
-Iosevka is licensed under the SIL Open Font License 1.1
+This project uses the SIL Open Font License 1.1. See [License.md](License.md) for full license text.
