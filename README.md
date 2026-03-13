@@ -1,6 +1,6 @@
 # Iosevka Mayukai Firastorm
 
-Custom Iosevka font build version 34.0.0 with minimal build.
+Custom Iosevka font build version 34.2.1 with minimal build.
 
 ## Build Guide
 
